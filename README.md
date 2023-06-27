@@ -10,4 +10,4 @@ This project aims to provide automated test cases for a particular function, ens
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/talhak4/FunctionAutomationTest.git
