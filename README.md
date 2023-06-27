@@ -30,7 +30,7 @@ This command will compile the project, create the test cases file, execute the t
 ## Project Structure
 
 The project is structured as follows:
-
+  * bin/`: Contains the compiled binary files.
   * src/: Contains the source code files.
   * test_files/: Stores the test cases file (test_cases.txt) and the test results file (test_results.txt).
   * Makefile: Contains the build instructions for the project.
