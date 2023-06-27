@@ -11,3 +11,5 @@ This project aims to provide automated test cases for a particular function, ens
 
    ```shell
    git clone https://github.com/talhak4/FunctionAutomationTest.git
+
+cd GITHUB/Automation-Test-for-Function
