@@ -1,2 +1,7 @@
-# FunctionAutomationTest
-This repository contains an automation test suite for a set of functions. The purpose of this project is to validate the correctness of the functions using automated tests. The test suite generates test cases, runs them against the functions, and compares the expected results with the actual results.
+# Automation Test for Function
+
+A project that implements automated tests for a specific function.
+
+## Description
+
+This project aims to provide automated test cases for a particular function, ensuring its correctness and robustness. By running the tests, users can verify the expected behavior of the function and identify any potential issues or edge cases.
