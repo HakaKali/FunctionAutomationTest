@@ -45,4 +45,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 For any questions or inquiries, please contact [Email me](mailto:your-email@example.com).
-Feel free to modify the content according to your specific project details, such as providing your actual contact information and email address.
