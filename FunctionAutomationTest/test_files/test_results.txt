@@ -1,0 +1,600 @@
+1. Test case: add(36, 53)
+Expected: 89
+Result: 89 [PASSED]
+
+1. Test case: add(36, 53)
+Expected: 89
+Result: 89 [PASSED]
+
+1. Test case: add(36, 53)
+Expected: 89
+Result: 89 [PASSED]
+
+3. Test case: add(90, 80)
+Expected: 170
+Result: 170 [PASSED]
+
+3. Test case: add(90, 80)
+Expected: 170
+Result: 170 [PASSED]
+
+3. Test case: add(90, 80)
+Expected: 170
+Result: 170 [PASSED]
+
+5. Test case: add(43, 69)
+Expected: 112
+Result: 112 [PASSED]
+
+5. Test case: add(43, 69)
+Expected: 112
+Result: 112 [PASSED]
+
+5. Test case: add(43, 69)
+Expected: 112
+Result: 112 [PASSED]
+
+7. Test case: add(16, 50)
+Expected: 66
+Result: 66 [PASSED]
+
+7. Test case: add(16, 50)
+Expected: 66
+Result: 66 [PASSED]
+
+7. Test case: add(16, 50)
+Expected: 66
+Result: 66 [PASSED]
+
+9. Test case: add(3, 71)
+Expected: 74
+Result: 74 [PASSED]
+
+9. Test case: add(3, 71)
+Expected: 74
+Result: 74 [PASSED]
+
+9. Test case: add(3, 71)
+Expected: 74
+Result: 74 [PASSED]
+
+11. Test case: add(70, 8)
+Expected: 78
+Result: 78 [PASSED]
+
+11. Test case: add(70, 8)
+Expected: 78
+Result: 78 [PASSED]
+
+11. Test case: add(70, 8)
+Expected: 78
+Result: 78 [PASSED]
+
+13. Test case: add(63, 53)
+Expected: 116
+Result: 116 [PASSED]
+
+13. Test case: add(63, 53)
+Expected: 116
+Result: 116 [PASSED]
+
+13. Test case: add(63, 53)
+Expected: 116
+Result: 116 [PASSED]
+
+15. Test case: add(18, 3)
+Expected: 21
+Result: 21 [PASSED]
+
+15. Test case: add(18, 3)
+Expected: 21
+Result: 21 [PASSED]
+
+15. Test case: add(18, 3)
+Expected: 21
+Result: 21 [PASSED]
+
+17. Test case: add(56, 62)
+Expected: 118
+Result: 118 [PASSED]
+
+17. Test case: add(56, 62)
+Expected: 118
+Result: 118 [PASSED]
+
+17. Test case: add(56, 62)
+Expected: 118
+Result: 118 [PASSED]
+
+19. Test case: add(42, 60)
+Expected: 102
+Result: 102 [PASSED]
+
+19. Test case: add(42, 60)
+Expected: 102
+Result: 102 [PASSED]
+
+19. Test case: add(42, 60)
+Expected: 102
+Result: 102 [PASSED]
+
+21. Test case: add(29, 49)
+Expected: 78
+Result: 78 [PASSED]
+
+21. Test case: add(29, 49)
+Expected: 78
+Result: 78 [PASSED]
+
+21. Test case: add(29, 49)
+Expected: 78
+Result: 78 [PASSED]
+
+23. Test case: add(99, 24)
+Expected: 123
+Result: 123 [PASSED]
+
+23. Test case: add(99, 24)
+Expected: 123
+Result: 123 [PASSED]
+
+23. Test case: add(99, 24)
+Expected: 123
+Result: 123 [PASSED]
+
+25. Test case: add(47, 95)
+Expected: 142
+Result: 142 [PASSED]
+
+25. Test case: add(47, 95)
+Expected: 142
+Result: 142 [PASSED]
+
+25. Test case: add(47, 95)
+Expected: 142
+Result: 142 [PASSED]
+
+27. Test case: add(3, 96)
+Expected: 99
+Result: 99 [PASSED]
+
+27. Test case: add(3, 96)
+Expected: 99
+Result: 99 [PASSED]
+
+27. Test case: add(3, 96)
+Expected: 99
+Result: 99 [PASSED]
+
+29. Test case: add(50, 7)
+Expected: 57
+Result: 57 [PASSED]
+
+29. Test case: add(50, 7)
+Expected: 57
+Result: 57 [PASSED]
+
+29. Test case: add(50, 7)
+Expected: 57
+Result: 57 [PASSED]
+
+31. Test case: add(10, 58)
+Expected: 68
+Result: 68 [PASSED]
+
+31. Test case: add(10, 58)
+Expected: 68
+Result: 68 [PASSED]
+
+31. Test case: add(10, 58)
+Expected: 68
+Result: 68 [PASSED]
+
+33. Test case: add(20, 40)
+Expected: 60
+Result: 60 [PASSED]
+
+33. Test case: add(20, 40)
+Expected: 60
+Result: 60 [PASSED]
+
+33. Test case: add(20, 40)
+Expected: 60
+Result: 60 [PASSED]
+
+35. Test case: add(52, 15)
+Expected: 67
+Result: 67 [PASSED]
+
+35. Test case: add(52, 15)
+Expected: 67
+Result: 67 [PASSED]
+
+35. Test case: add(52, 15)
+Expected: 67
+Result: 67 [PASSED]
+
+37. Test case: add(64, 20)
+Expected: 84
+Result: 84 [PASSED]
+
+37. Test case: add(64, 20)
+Expected: 84
+Result: 84 [PASSED]
+
+37. Test case: add(64, 20)
+Expected: 84
+Result: 84 [PASSED]
+
+39. Test case: add(96, 45)
+Expected: 141
+Result: 141 [PASSED]
+
+39. Test case: add(96, 45)
+Expected: 141
+Result: 141 [PASSED]
+
+39. Test case: add(96, 45)
+Expected: 141
+Result: 141 [PASSED]
+
+41. Test case: add(92, 75)
+Expected: 167
+Result: 167 [PASSED]
+
+41. Test case: add(92, 75)
+Expected: 167
+Result: 167 [PASSED]
+
+41. Test case: add(92, 75)
+Expected: 167
+Result: 167 [PASSED]
+
+43. Test case: add(24, 35)
+Expected: 59
+Result: 59 [PASSED]
+
+43. Test case: add(24, 35)
+Expected: 59
+Result: 59 [PASSED]
+
+43. Test case: add(24, 35)
+Expected: 59
+Result: 59 [PASSED]
+
+45. Test case: add(42, 11)
+Expected: 53
+Result: 53 [PASSED]
+
+45. Test case: add(42, 11)
+Expected: 53
+Result: 53 [PASSED]
+
+45. Test case: add(42, 11)
+Expected: 53
+Result: 53 [PASSED]
+
+47. Test case: add(70, 25)
+Expected: 95
+Result: 95 [PASSED]
+
+47. Test case: add(70, 25)
+Expected: 95
+Result: 95 [PASSED]
+
+47. Test case: add(70, 25)
+Expected: 95
+Result: 95 [PASSED]
+
+49. Test case: add(18, 40)
+Expected: 58
+Result: 58 [PASSED]
+
+49. Test case: add(18, 40)
+Expected: 58
+Result: 58 [PASSED]
+
+49. Test case: add(18, 40)
+Expected: 58
+Result: 58 [PASSED]
+
+51. Test case: add(55, 56)
+Expected: 111
+Result: 111 [PASSED]
+
+51. Test case: add(55, 56)
+Expected: 111
+Result: 111 [PASSED]
+
+51. Test case: add(55, 56)
+Expected: 111
+Result: 111 [PASSED]
+
+53. Test case: add(29, 36)
+Expected: 65
+Result: 65 [PASSED]
+
+53. Test case: add(29, 36)
+Expected: 65
+Result: 65 [PASSED]
+
+53. Test case: add(29, 36)
+Expected: 65
+Result: 65 [PASSED]
+
+55. Test case: add(33, 10)
+Expected: 43
+Result: 43 [PASSED]
+
+55. Test case: add(33, 10)
+Expected: 43
+Result: 43 [PASSED]
+
+55. Test case: add(33, 10)
+Expected: 43
+Result: 43 [PASSED]
+
+57. Test case: add(85, 35)
+Expected: 120
+Result: 120 [PASSED]
+
+57. Test case: add(85, 35)
+Expected: 120
+Result: 120 [PASSED]
+
+57. Test case: add(85, 35)
+Expected: 120
+Result: 120 [PASSED]
+
+59. Test case: add(71, 41)
+Expected: 112
+Result: 112 [PASSED]
+
+59. Test case: add(71, 41)
+Expected: 112
+Result: 112 [PASSED]
+
+59. Test case: add(71, 41)
+Expected: 112
+Result: 112 [PASSED]
+
+61. Test case: add(4, 34)
+Expected: 38
+Result: 38 [PASSED]
+
+61. Test case: add(4, 34)
+Expected: 38
+Result: 38 [PASSED]
+
+61. Test case: add(4, 34)
+Expected: 38
+Result: 38 [PASSED]
+
+63. Test case: add(11, 93)
+Expected: 104
+Result: 104 [PASSED]
+
+63. Test case: add(11, 93)
+Expected: 104
+Result: 104 [PASSED]
+
+63. Test case: add(11, 93)
+Expected: 104
+Result: 104 [PASSED]
+
+65. Test case: add(33, 74)
+Expected: 107
+Result: 107 [PASSED]
+
+65. Test case: add(33, 74)
+Expected: 107
+Result: 107 [PASSED]
+
+65. Test case: add(33, 74)
+Expected: 107
+Result: 107 [PASSED]
+
+67. Test case: add(82, 60)
+Expected: 142
+Result: 142 [PASSED]
+
+67. Test case: add(82, 60)
+Expected: 142
+Result: 142 [PASSED]
+
+67. Test case: add(82, 60)
+Expected: 142
+Result: 142 [PASSED]
+
+69. Test case: add(49, 51)
+Expected: 100
+Result: 100 [PASSED]
+
+69. Test case: add(49, 51)
+Expected: 100
+Result: 100 [PASSED]
+
+69. Test case: add(49, 51)
+Expected: 100
+Result: 100 [PASSED]
+
+71. Test case: add(61, 62)
+Expected: 123
+Result: 123 [PASSED]
+
+71. Test case: add(61, 62)
+Expected: 123
+Result: 123 [PASSED]
+
+71. Test case: add(61, 62)
+Expected: 123
+Result: 123 [PASSED]
+
+73. Test case: add(50, 86)
+Expected: 136
+Result: 136 [PASSED]
+
+73. Test case: add(50, 86)
+Expected: 136
+Result: 136 [PASSED]
+
+73. Test case: add(50, 86)
+Expected: 136
+Result: 136 [PASSED]
+
+75. Test case: add(79, 47)
+Expected: 126
+Result: 126 [PASSED]
+
+75. Test case: add(79, 47)
+Expected: 126
+Result: 126 [PASSED]
+
+75. Test case: add(79, 47)
+Expected: 126
+Result: 126 [PASSED]
+
+77. Test case: add(33, 8)
+Expected: 41
+Result: 41 [PASSED]
+
+77. Test case: add(33, 8)
+Expected: 41
+Result: 41 [PASSED]
+
+77. Test case: add(33, 8)
+Expected: 41
+Result: 41 [PASSED]
+
+79. Test case: add(1, 79)
+Expected: 80
+Result: 80 [PASSED]
+
+79. Test case: add(1, 79)
+Expected: 80
+Result: 80 [PASSED]
+
+79. Test case: add(1, 79)
+Expected: 80
+Result: 80 [PASSED]
+
+81. Test case: add(5, 82)
+Expected: 87
+Result: 87 [PASSED]
+
+81. Test case: add(5, 82)
+Expected: 87
+Result: 87 [PASSED]
+
+81. Test case: add(5, 82)
+Expected: 87
+Result: 87 [PASSED]
+
+83. Test case: add(43, 38)
+Expected: 81
+Result: 81 [PASSED]
+
+83. Test case: add(43, 38)
+Expected: 81
+Result: 81 [PASSED]
+
+83. Test case: add(43, 38)
+Expected: 81
+Result: 81 [PASSED]
+
+85. Test case: add(89, 92)
+Expected: 181
+Result: 181 [PASSED]
+
+85. Test case: add(89, 92)
+Expected: 181
+Result: 181 [PASSED]
+
+85. Test case: add(89, 92)
+Expected: 181
+Result: 181 [PASSED]
+
+87. Test case: add(55, 39)
+Expected: 94
+Result: 94 [PASSED]
+
+87. Test case: add(55, 39)
+Expected: 94
+Result: 94 [PASSED]
+
+87. Test case: add(55, 39)
+Expected: 94
+Result: 94 [PASSED]
+
+89. Test case: add(77, 12)
+Expected: 89
+Result: 89 [PASSED]
+
+89. Test case: add(77, 12)
+Expected: 89
+Result: 89 [PASSED]
+
+89. Test case: add(77, 12)
+Expected: 89
+Result: 89 [PASSED]
+
+91. Test case: add(12, 68)
+Expected: 80
+Result: 80 [PASSED]
+
+91. Test case: add(12, 68)
+Expected: 80
+Result: 80 [PASSED]
+
+91. Test case: add(12, 68)
+Expected: 80
+Result: 80 [PASSED]
+
+93. Test case: add(77, 7)
+Expected: 84
+Result: 84 [PASSED]
+
+93. Test case: add(77, 7)
+Expected: 84
+Result: 84 [PASSED]
+
+93. Test case: add(77, 7)
+Expected: 84
+Result: 84 [PASSED]
+
+95. Test case: add(39, 73)
+Expected: 112
+Result: 112 [PASSED]
+
+95. Test case: add(39, 73)
+Expected: 112
+Result: 112 [PASSED]
+
+95. Test case: add(39, 73)
+Expected: 112
+Result: 112 [PASSED]
+
+97. Test case: add(7, 43)
+Expected: 50
+Result: 50 [PASSED]
+
+97. Test case: add(7, 43)
+Expected: 50
+Result: 50 [PASSED]
+
+97. Test case: add(7, 43)
+Expected: 50
+Result: 50 [PASSED]
+
+99. Test case: add(33, 36)
+Expected: 69
+Result: 69 [PASSED]
+
+99. Test case: add(33, 36)
+Expected: 69
+Result: 69 [PASSED]
+
+99. Test case: add(33, 36)
+Expected: 69
+Result: 69 [PASSED]
+

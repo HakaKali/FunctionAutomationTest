@@ -1,0 +1,300 @@
+1. Test case: add(36, 53)
+Expected: 89
+
+2. Test case: add(48, 55)
+Expected: 103
+
+3. Test case: add(90, 80)
+Expected: 170
+
+4. Test case: add(46, 47)
+Expected: 93
+
+5. Test case: add(43, 69)
+Expected: 112
+
+6. Test case: add(51, 32)
+Expected: 83
+
+7. Test case: add(16, 50)
+Expected: 66
+
+8. Test case: add(55, 15)
+Expected: 70
+
+9. Test case: add(3, 71)
+Expected: 74
+
+10. Test case: add(30, 98)
+Expected: 128
+
+11. Test case: add(70, 8)
+Expected: 78
+
+12. Test case: add(91, 3)
+Expected: 94
+
+13. Test case: add(63, 53)
+Expected: 116
+
+14. Test case: add(33, 25)
+Expected: 58
+
+15. Test case: add(18, 3)
+Expected: 21
+
+16. Test case: add(62, 6)
+Expected: 68
+
+17. Test case: add(56, 62)
+Expected: 118
+
+18. Test case: add(61, 98)
+Expected: 159
+
+19. Test case: add(42, 60)
+Expected: 102
+
+20. Test case: add(46, 85)
+Expected: 131
+
+21. Test case: add(29, 49)
+Expected: 78
+
+22. Test case: add(69, 98)
+Expected: 167
+
+23. Test case: add(99, 24)
+Expected: 123
+
+24. Test case: add(13, 54)
+Expected: 67
+
+25. Test case: add(47, 95)
+Expected: 142
+
+26. Test case: add(53, 18)
+Expected: 71
+
+27. Test case: add(3, 96)
+Expected: 99
+
+28. Test case: add(21, 19)
+Expected: 40
+
+29. Test case: add(50, 7)
+Expected: 57
+
+30. Test case: add(44, 20)
+Expected: 64
+
+31. Test case: add(10, 58)
+Expected: 68
+
+32. Test case: add(79, 18)
+Expected: 97
+
+33. Test case: add(20, 40)
+Expected: 60
+
+34. Test case: add(17, 62)
+Expected: 79
+
+35. Test case: add(52, 15)
+Expected: 67
+
+36. Test case: add(99, 82)
+Expected: 181
+
+37. Test case: add(64, 20)
+Expected: 84
+
+38. Test case: add(32, 16)
+Expected: 48
+
+39. Test case: add(96, 45)
+Expected: 141
+
+40. Test case: add(70, 44)
+Expected: 114
+
+41. Test case: add(92, 75)
+Expected: 167
+
+42. Test case: add(62, 96)
+Expected: 158
+
+43. Test case: add(24, 35)
+Expected: 59
+
+44. Test case: add(15, 26)
+Expected: 41
+
+45. Test case: add(42, 11)
+Expected: 53
+
+46. Test case: add(46, 52)
+Expected: 98
+
+47. Test case: add(70, 25)
+Expected: 95
+
+48. Test case: add(23, 42)
+Expected: 65
+
+49. Test case: add(18, 40)
+Expected: 58
+
+50. Test case: add(5, 70)
+Expected: 75
+
+51. Test case: add(55, 56)
+Expected: 111
+
+52. Test case: add(4, 71)
+Expected: 75
+
+53. Test case: add(29, 36)
+Expected: 65
+
+54. Test case: add(87, 77)
+Expected: 164
+
+55. Test case: add(33, 10)
+Expected: 43
+
+56. Test case: add(21, 78)
+Expected: 99
+
+57. Test case: add(85, 35)
+Expected: 120
+
+58. Test case: add(74, 61)
+Expected: 135
+
+59. Test case: add(71, 41)
+Expected: 112
+
+60. Test case: add(87, 65)
+Expected: 152
+
+61. Test case: add(4, 34)
+Expected: 38
+
+62. Test case: add(70, 74)
+Expected: 144
+
+63. Test case: add(11, 93)
+Expected: 104
+
+64. Test case: add(17, 81)
+Expected: 98
+
+65. Test case: add(33, 74)
+Expected: 107
+
+66. Test case: add(4, 40)
+Expected: 44
+
+67. Test case: add(82, 60)
+Expected: 142
+
+68. Test case: add(11, 11)
+Expected: 22
+
+69. Test case: add(49, 51)
+Expected: 100
+
+70. Test case: add(89, 82)
+Expected: 171
+
+71. Test case: add(61, 62)
+Expected: 123
+
+72. Test case: add(12, 98)
+Expected: 110
+
+73. Test case: add(50, 86)
+Expected: 136
+
+74. Test case: add(60, 73)
+Expected: 133
+
+75. Test case: add(79, 47)
+Expected: 126
+
+76. Test case: add(38, 36)
+Expected: 74
+
+77. Test case: add(33, 8)
+Expected: 41
+
+78. Test case: add(10, 97)
+Expected: 107
+
+79. Test case: add(1, 79)
+Expected: 80
+
+80. Test case: add(78, 86)
+Expected: 164
+
+81. Test case: add(5, 82)
+Expected: 87
+
+82. Test case: add(26, 88)
+Expected: 114
+
+83. Test case: add(43, 38)
+Expected: 81
+
+84. Test case: add(51, 92)
+Expected: 143
+
+85. Test case: add(89, 92)
+Expected: 181
+
+86. Test case: add(26, 2)
+Expected: 28
+
+87. Test case: add(55, 39)
+Expected: 94
+
+88. Test case: add(52, 5)
+Expected: 57
+
+89. Test case: add(77, 12)
+Expected: 89
+
+90. Test case: add(78, 9)
+Expected: 87
+
+91. Test case: add(12, 68)
+Expected: 80
+
+92. Test case: add(45, 97)
+Expected: 142
+
+93. Test case: add(77, 7)
+Expected: 84
+
+94. Test case: add(94, 30)
+Expected: 124
+
+95. Test case: add(39, 73)
+Expected: 112
+
+96. Test case: add(17, 44)
+Expected: 61
+
+97. Test case: add(7, 43)
+Expected: 50
+
+98. Test case: add(32, 2)
+Expected: 34
+
+99. Test case: add(33, 36)
+Expected: 69
+
+100. Test case: add(46, 74)
+Expected: 120
+
