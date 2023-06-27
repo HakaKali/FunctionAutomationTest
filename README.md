@@ -10,20 +10,20 @@ This project aims to provide automated test cases for a particular function, ens
 
 1. Clone the repository:
 ```shell
-    git clone https://github.com/talhak4/FunctionAutomationTest.git
+git clone https://github.com/talhak4/FunctionAutomationTest.git
 ``` 
 ## Navigate to the project directory
   ```shell
-    cd FunctionAutomationTest
+cd FunctionAutomationTest
   ```
 ## Compile the project:
   ```shell
-    make
+make
   ```
 ## Usage
 To run the automated tests, use the following command:
   ```shell
-    make run
+make run
   ```
 This command will compile the project, create the test cases file, execute the tests, and store the results in the test_files directory.
 
